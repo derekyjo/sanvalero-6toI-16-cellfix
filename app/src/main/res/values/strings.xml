@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellFix</string>
+    <string name="app_tagline">Ventas y reparaciones</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Sistema de gestión CellFix</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="logout">Cerrar sesión</string>
+</resources>
