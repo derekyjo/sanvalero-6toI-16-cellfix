@@ -1,6 +1,19 @@
 # Evidencias
 
-Guarda aquí las capturas y comprobantes de la ejecución en el dispositivo real.
+Capturas reales de la ejecución del APK `v1.0.0` en BlueStacks 5 (Android 9, API 28),
+guardadas en la carpeta `capturas/`:
+
+```text
+capturas/01-login.png
+capturas/02-dashboard.png
+capturas/03-clientes.png
+capturas/04-reparaciones.png
+capturas/05-ventas.png
+capturas/06-reportes.png
+```
+
+También puedes guardar aquí las capturas y comprobantes de la ejecución en el
+dispositivo real.
 
 Nombres sugeridos:
 

@@ -186,3 +186,16 @@ Para publicar en GitHub se recomienda adjuntar `app-release.apk` en la Release `
 
 Proyecto individual desarrollado por **Derek Yasunary Jiménez Oviedo** para la asignatura
 de Desarrollo de Aplicaciones Android, 6to I, Centro Educativo San Valero.
+
+## 12. Capturas de la aplicación
+
+Capturas reales tomadas ejecutando el APK `v1.0.0` en BlueStacks 5 (Android 9, API 28).
+
+| Pantalla | Captura |
+|---|---|
+| Inicio de sesión | ![Login](docs/evidencias/capturas/01-login.png) |
+| Panel general | ![Dashboard](docs/evidencias/capturas/02-dashboard.png) |
+| Clientes | ![Clientes](docs/evidencias/capturas/03-clientes.png) |
+| Reparaciones | ![Reparaciones](docs/evidencias/capturas/04-reparaciones.png) |
+| Ventas con ITBIS | ![Ventas](docs/evidencias/capturas/05-ventas.png) |
+| Reportes y respaldo | ![Reportes](docs/evidencias/capturas/06-reportes.png) |
